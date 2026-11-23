@@ -16,7 +16,7 @@ Canumpty Loading Screen is a dark, polished and fully configurable FiveM loading
 - Editable server name, welcome text, colours, links, news, rules, and staff entries.
 - Optional full-screen static image or video background.
 - Optional playlist player with automatic playback attempt, play/pause, previous/next, volume control, and visible artist/title.
-- Generic public defaults with no Goldcrest branding or staff details, plus an included Canumpty starter background and original music track.
+- Fully customisable public defaults, including server branding, staff details, an original Canumpty starter background and an original music track.
 
 ## Requirements
 
